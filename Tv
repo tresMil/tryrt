@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,SD: TLNOVELAS
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16507.ts
+#EXTINF:-1,SD: TELEMUNDO INT
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16510.ts
+#EXTINF:-1,SD: CARACOL
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16608.ts
+#EXTINF:-1,LA: Telemundo 47 HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/102061.m3u8
+#EXTINF:-1,LA: Telemundo East
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116152.m3u8
+#EXTINF:-1,LA: Telemundo HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68518.m3u8
+#EXTINF:-1,LA: Telemundo Internacional
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116150.m3u8
+#EXTINF:-1,LA: Telemundo Las Vegas
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/106666.m3u8
+#EXTINF:-1,LA: Telemundo USA
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/113970.m3u8
+#EXTINF:-1,LA: Telemundo West
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116151.m3u8
+#EXTINF:-1,LA: TELENOVELAS
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68692.m3u8
+#EXTINF:-1,LA: Unicable HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68462.m3u8
+#EXTINF:-1,LA: Unicanal
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68696.m3u8
+#EXTINF:-1,LA: Unicanal (PY)
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116119.m3u8
+#EXTINF:-1,LA: UNIMAS HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68459.m3u8
+#EXTINF:-1,LA: UNIVERSAL CHANNEL
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68506.m3u8
+#EXTINF:-1,LA: Univision (Miami)
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77762.m3u8
+#EXTINF:-1,LA: UNIVISION DEPORTES
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68463.m3u8
+#EXTINF:-1,LA: Univision HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68436.m3u8
+#EXTINF:-1,LA: Univision HD (Puerto Rico)
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/80164.m3u8
+#EXTINF:-1,LA: Univision Network HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68689.m3u8
+#EXTINF:-1,LA: UNIVISION TDN HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77811.m3u8
+#EXTINF:-1,LA: Univision West
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116154.m3u8
+#EXTINF:-1,LA: VENEVISION
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68886.m3u8
+#EXTINF:-1,LA: Venevision (Venezuela)
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116124.m3u8
+#EXTINF:-1,LA: VENEVISION PLUS
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68721.m3u8
+#EXTINF:-1,LA: Venevision Plus (Venezuela)
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116123.m3u8
+#EXTINF:-1,HD: UNIVISION LOS ANGELES
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16465.ts
+#EXTINF:-1,SD: UNICABLE
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16500.ts
+#EXTINF:-1,SD: UNIVERSAL CHANNEL
+http://158.69.127.19:8000/live/pispi/al5zWTH0CQ/16499.ts
